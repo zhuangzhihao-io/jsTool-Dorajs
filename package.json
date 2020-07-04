@@ -1,0 +1,31 @@
+{
+  "name": "dorajs-jstool",
+  "displayName": "jsTool",
+  "version": "1.0.0",
+  "uuid": "9d5dd62c-b1b2-471c-9b21-87673ad26ece",
+  "description": "${description}",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "zhuang.zhihao.io"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.8.1"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {}
+}
